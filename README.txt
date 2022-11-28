@@ -1,0 +1,5 @@
+Daniel Ritz
+21120120120021
+Praktikum Pemrograman Perangkat Bergerak
+Teknik Komputer
+Universitas Diponegoro
